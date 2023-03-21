@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AACA,QACE,eACF,CAEA,QACE,eACF","file":"style.9c12efda.css","sourceRoot":"..\\src","sourcesContent":["/* styles go here */\n.inputs {\n  margin: 10px 0 0;\n}\n\n.groups {\n  margin-top: 20px;\n}\n"]}
